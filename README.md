@@ -5,20 +5,21 @@
 </p>
 <p>
   <strong>Conteúdo desenvolvido e aprendido na Formação:</strong> 
-  - Python
-  - R
-  - Limpeza e Tratamento de Dados
-  - Gráficos, Visualização de Dados e Dashboards
-  - Estatística
+  <ul>
+    <li>Python</li>
+    <li>R</li>
+    <li>Limpeza e Tratamento de Dados</li>
+    <li>Estatística</li>
     . Regressão Linear
     . Regressão Logística
     . Series Temporais
-  - Machine Learning
+    <li>Machine Learning</li>
     . Redes Neurais Artificiais e Deep Learning
     . Grafos
     . Processamento de Linguagem Natural e Mineração de Texto
-  - Spark e Databricks
-  - Power BI
-  - Tablaeu
-  - Big Data
+    <li>park e Databricks</li>
+    <li>Power BI</li>
+    <li>Tablaeu</li>
+    <li>Big Data</li>
+  </ul>
 </p>
