@@ -17,7 +17,7 @@
     . Redes Neurais Artificiais e Deep Learning
     . Grafos
     . Processamento de Linguagem Natural e Mineração de Texto
-    <li>park e Databricks</li>
+    <li>Spark e Databricks</li>
     <li>Power BI</li>
     <li>Tablaeu</li>
     <li>Big Data</li>
