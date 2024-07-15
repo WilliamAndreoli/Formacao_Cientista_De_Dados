@@ -22,4 +22,7 @@
     <li>Tablaeu</li>
     <li>Big Data</li>
   </ul>
+  <br>
+  <strong>Link para o projeto prático final, onde consta todo o desenvolvimento de um modelo de ML para classificação, desenvolvido com Python:</strong>
+  <a href="https://github.com/WilliamAndreoli/Projeto_WBK">Projeto Prático WBK</a>
 </p>
